@@ -7,9 +7,12 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> About Me
-Hi, I’m **Abhishek** — a full-stack developer passionate about building **intelligent, high-performance applications**.  
-I work across **JavaScript, TypeScript, Python, ML/DL**, and modern frameworks to create products that feel **fast, intuitive, and impactful**.
+Hi, I’m Abhishek — a full-stack and AI developer who loves building fast, scalable, and meaningful digital experiences.
+I work across modern JavaScript/TypeScript ecosystems, backend engineering, cloud-native development, and machine learning. My focus is on creating production-ready systems that feel clean, intuitive, and powerful.
 
+I enjoy working across the entire stack — from designing APIs and distributed microservices to crafting polished UI/UX with frameworks like React, Next.js, and Tailwind. I’m also deeply interested in AI, computer vision, and model deployment pipelines using PyTorch, TensorFlow, and MLOps tooling.
+
+I build things that blend performance, clean architecture, and a little bit of style.
 ---
 
 <!-- ===================== SOCIALS ===================== -->
