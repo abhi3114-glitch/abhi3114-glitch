@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/0db835c07257c5f0e6f85227762383462a0175d9/Animated_GitHub_Profile_Banner_Creation.gif](https://github.com/abhi3114-glitch/abhi3114-glitch/blob/de69f275cb50ca20f9ba478d92deecb096a56232/20251205_1326_New%20Video_simple_compose_01kbpr6s6xe5yv9r5mwx01ppr1.gif" 
+  <img src="20251205_1326_New Video_simple_compose_01kbpr6s6xe5yv9r5mwx01ppr1.gif" 
        alt="ABHISHEK | Full-Stack & AI Developer" 
        width="900" />
 </p>
