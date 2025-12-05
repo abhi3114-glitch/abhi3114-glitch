@@ -1,9 +1,9 @@
-<!-- CUSTOM PROFESSIONAL BANNER -->
 <p align="center">
-  <img src="YOUR_LINK_HERE"
-       alt="ABHISHEK | Full-Stack & AI Developer"
+  <img src="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/0db835c07257c5f0e6f85227762383462a0175d9/Animated_GitHub_Profile_Banner_Creation.gif" 
+       alt="ABHISHEK | Full-Stack & AI Developer" 
        width="900" />
 </p>
+
 <!-- ===================== ABOUT ME ===================== -->
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> About Me
