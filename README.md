@@ -1,3 +1,9 @@
+<!-- CUSTOM PROFESSIONAL BANNER -->
+<p align="center">
+  <img src="YOUR_LINK_HERE"
+       alt="ABHISHEK | Full-Stack & AI Developer"
+       width="900" />
+</p>
 <!-- ===================== ABOUT ME ===================== -->
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> About Me
