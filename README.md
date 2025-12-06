@@ -8,25 +8,33 @@
 
 <!-- ===================== ICON STACK STRIP ===================== -->
 
+<!-- ========== CLEANED TECH ICON STRIP ========== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,framer" height="56" alt="frontend icons" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+
+  <!-- Backend / Languages -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,go,java,cpp" height="56" alt="backend & languages" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" height="56" alt="databases" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+
+  <!-- Message brokers / Streaming -->
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="56" alt="message brokers" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+
+  <!-- DevOps / Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" height="56" alt="devops icons" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+
+  <!-- ML / Data -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="56" alt="ml icons" />
 </div>
+<!-- ========== END STRIP ========== -->
+
 
 ---
 
