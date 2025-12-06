@@ -154,9 +154,9 @@ I build things that blend performance, clean architecture, and a little bit of s
 
 ## 🟡 Pacman Contribution Graph  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/output/dist/snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/output/dist/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/dist/snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/dist/snake.svg">
 </picture>
 
 
