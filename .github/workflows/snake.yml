@@ -5,25 +5,31 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Graph
         uses: Platane/snk@v3
         with:
           github_user_name: abhi3114-glitch
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg
-      - name: Push Snake Graph
+
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generated snake graph"
-          add: "dist"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          message: "chore: update snake graph"
+          add: "dist/**"
