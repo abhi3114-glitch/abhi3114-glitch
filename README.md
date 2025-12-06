@@ -152,7 +152,7 @@ I build things that blend performance, clean architecture, and a little bit of s
 
 <!-- ===================== PACMAN GRAPH (YOUR USERNAME) ===================== -->
 
-## 🟡 Pacman Contribution Graph  
+## 🟡 Snake Contribution Graph  
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/abhi3114-glitch/abhi3114-glitch/main/dist/snake-dark.svg">
