@@ -31,7 +31,7 @@
   <img width="12" />
 
   <!-- ML / Data -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="56" alt="ml icons" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="56" alt="ml icons" />
 </div>
 <!-- ========== END STRIP ========== -->
 
