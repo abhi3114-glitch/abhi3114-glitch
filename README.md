@@ -127,8 +127,7 @@ I build things that blend performance, clean architecture, and a little bit of s
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## <img src="https://media.giphy.com/media/ZcnpXI7yLTU5q/giphy.gif" width="35"> GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abhi3114-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true
-)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=abhi3114-glitch&theme=dark&hide_border=false
 )<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3114-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
