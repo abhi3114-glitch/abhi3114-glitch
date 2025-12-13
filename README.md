@@ -130,8 +130,7 @@ I build things that blend performance, clean architecture, and a little bit of s
 
 ![](https://nirzak-streak-stats.vercel.app/?user=abhi3114-glitch&theme=dark&hide_border=false
 )<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3114-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
-)
+
 
 ---
 
